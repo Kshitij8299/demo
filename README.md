@@ -1,4 +1,4 @@
 # demo
 this is my first git repo
 </br>
-author kshitij maurya
+author kshitij maurya mirzapur
